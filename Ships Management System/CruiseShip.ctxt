@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=CruiseShip
+comment1.params=
+comment1.target=CruiseShip()
+comment2.params=name\ year\ imoNumber\ maxPassengers\ numberPassengers
+comment2.target=CruiseShip(java.lang.String,\ int,\ java.lang.String,\ int,\ int)
+comment3.params=
+comment3.target=int\ getMaxPassengers()
+comment4.params=
+comment4.target=int\ getNumberPassengers()
+comment5.params=
+comment5.target=boolean\ requireCheck()
+comment6.params=
+comment6.target=java.lang.String\ getAvailableSpace()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8
