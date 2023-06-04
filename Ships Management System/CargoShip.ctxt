@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=CargoShip
+comment1.params=
+comment1.target=CargoShip()
+comment2.params=name\ year\ imoNumber\ maxCapacity\ currentLoad
+comment2.target=CargoShip(java.lang.String,\ int,\ java.lang.String,\ double,\ double)
+comment3.params=
+comment3.target=double\ getMaxCapacity()
+comment4.params=
+comment4.target=double\ getCurrentLoad()
+comment5.params=
+comment5.target=boolean\ requireCheck()
+comment6.params=
+comment6.target=java.lang.String\ getAvailableSpace()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8
